@@ -1,7 +1,7 @@
 
 # **Heart Disease Prediction Using Neural Networks**
 
-https://www.researchgate.net/figure/Proposed-flow-chart-for-predicting-heart-disease_fig1_371132331
+![image](https://github.com/user-attachments/assets/e9c67297-e81c-41a9-964c-db979f488d69)
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
