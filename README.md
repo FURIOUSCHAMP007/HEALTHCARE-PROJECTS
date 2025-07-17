@@ -10,8 +10,7 @@ This repository is a comprehensive collection of **medical AI and data science p
 |-------------------------------------------------------------------------------|-----------------------------------------------|
 | **Brain MRI**                                                                 | Image Processing, Deep Learning (CNN)         |
 | **Breast Cancer Detection using CNN**                                         | CNN, Image Classification                     |
-| **Detecting COVID-19 with Chest X-Ray using Python**                          | X-ray Imaging, CNN, Transfer Learning         |
-| **Detecting Malaria**                                                         | Image Classification, CNN                     |
+| **Detecting COVID-19 with Chest X-Ray using Python**                          | X-ray Imaging, CNN, Transfer Learning         |                |
 | **Diabetes Prediction with PySpark MLlib**                                    | PySpark, ML Pipelines                         |
 | **Diagnosing Coronary Artery Disease**                                        | ML Classification, EDA                        |
 | **DNA Classification Project**                                                | Sequence Analysis, Deep Learning              |
